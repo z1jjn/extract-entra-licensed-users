@@ -1,0 +1,1 @@
+# extract-entra-licensed-users
