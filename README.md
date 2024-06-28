@@ -1,1 +1,1 @@
-# extract-entra-licensed-users
+Use this PowerShell script to export TO Excel users with licenses from M365 and add custom field data from Entra (formerly Azure AD).
